@@ -1,0 +1,5 @@
+cd /path/to/meeting-transcriber-app
+
+git add .
+git commit -m "Trigger deployment"
+git push
